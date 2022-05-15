@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="toolbox\convexPolygon.cpp">
+      <Filter>toolbox</Filter>
+    </ClCompile>
+    <ClCompile Include="toolbox\intersection2d.cpp">
+      <Filter>toolbox</Filter>
+    </ClCompile>
+    <ClCompile Include="toolbox\range.cpp">
+      <Filter>toolbox</Filter>
+    </ClCompile>
+    <ClCompile Include="toolbox\vector2d.cpp">
+      <Filter>toolbox</Filter>
+    </ClCompile>
+    <ClCompile Include="toolbox\referantial2D.cpp">
+      <Filter>toolbox</Filter>
+    </ClCompile>
+    <ClCompile Include="src\bullet.cpp">
+      <Filter>src\entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\player.cpp">
+      <Filter>src\entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mainMenu.cpp">
+      <Filter>src\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UI.cpp">
+      <Filter>src\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\text.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\timer.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="toolbox\AABB.cpp">
+      <Filter>toolbox</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils.cpp">
+      <Filter>src\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="toolbox\maths.cpp">
+      <Filter>toolbox</Filter>
+    </ClCompile>
+    <ClCompile Include="src\collider.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\floating_mine.cpp">
+      <Filter>src\entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\entity.cpp">
+      <Filter>src\entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\movement.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\player_movement.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\static_mine_movement.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\spawn_mother_ship.cpp">
+      <Filter>src\entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game_manager.cpp">
+      <Filter>src\game</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mine_layer.cpp">
+      <Filter>src\entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\magnetic_mine.cpp">
+      <Filter>src\entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\fireball_mine.cpp">
+      <Filter>src\entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\magnetic_fireball_mine.cpp">
+      <Filter>src\entities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game_UI.cpp">
+      <Filter>src\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\pause_menu.cpp">
+      <Filter>src\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game_over.cpp">
+      <Filter>src\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\level_select.cpp">
+      <Filter>src\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\end_game.cpp">
+      <Filter>src\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\particles.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\animation.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\explosion.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mine_explosion.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\player_explosion.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\player_teleportation.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\fireball_explosion.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\bullet_explosion.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mine_layer_explosion.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\collision.cpp">
+      <Filter>src\tools</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{8f6dc6b2-2e29-45a1-942b-7d85dcf9761d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{a974dabe-559c-414a-8f32-5032059f96e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="toolbox">
+      <UniqueIdentifier>{47fc4324-0d7f-4b24-8a96-f5afddb02741}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\game">
+      <UniqueIdentifier>{8bc8114f-cd13-4f1e-bf2c-dd2abd5a472b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\entities">
+      <UniqueIdentifier>{ac3df9c6-ef1f-49ff-9c15-6c3462a9ba9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\medias">
+      <UniqueIdentifier>{6c517ec1-7103-48c7-9422-7988b68a12c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\UI">
+      <UniqueIdentifier>{390278f4-385c-4e90-b8bb-31b209106d61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\tools">
+      <UniqueIdentifier>{e816f079-a31b-48a1-a0d6-2a47892248b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\game">
+      <UniqueIdentifier>{396e283d-574f-4833-9a24-18ed7c8e782c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\entities">
+      <UniqueIdentifier>{aa30250d-2568-463a-989d-1e6e3e1f268b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\tools">
+      <UniqueIdentifier>{3a59be56-9564-418a-a28c-2b41d0f141a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\UI">
+      <UniqueIdentifier>{42508a56-babb-401f-8f19-4cfe6eeb76ad}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="toolbox\convexPolygon.h">
+      <Filter>toolbox</Filter>
+    </ClInclude>
+    <ClInclude Include="toolbox\intersection2d.h">
+      <Filter>toolbox</Filter>
+    </ClInclude>
+    <ClInclude Include="toolbox\range.h">
+      <Filter>toolbox</Filter>
+    </ClInclude>
+    <ClInclude Include="toolbox\vector2d.h">
+      <Filter>toolbox</Filter>
+    </ClInclude>
+    <ClInclude Include="toolbox\referantial2D.h">
+      <Filter>toolbox</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game.h">
+      <Filter>include\game</Filter>
+    </ClInclude>
+    <ClInclude Include="include\bullet.h">
+      <Filter>include\entities</Filter>
+    </ClInclude>
+    <ClInclude Include="include\player.h">
+      <Filter>include\entities</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ressources.h">
+      <Filter>include\medias</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sounds.h">
+      <Filter>include\medias</Filter>
+    </ClInclude>
+    <ClInclude Include="include\mainMenu.h">
+      <Filter>include\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UI.h">
+      <Filter>include\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\text.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\timer.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="toolbox\AABB.h">
+      <Filter>toolbox</Filter>
+    </ClInclude>
+    <ClInclude Include="include\mines.h">
+      <Filter>include\entities</Filter>
+    </ClInclude>
+    <ClInclude Include="include\floating_mine.h">
+      <Filter>include\entities</Filter>
+    </ClInclude>
+    <ClInclude Include="include\utils.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="toolbox\maths.h">
+      <Filter>toolbox</Filter>
+    </ClInclude>
+    <ClInclude Include="include\collider.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="toolbox\circle2d.h">
+      <Filter>toolbox</Filter>
+    </ClInclude>
+    <ClInclude Include="include\entity.h">
+      <Filter>include\entities</Filter>
+    </ClInclude>
+    <ClInclude Include="include\movement.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\player_movement.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\static_mine_movement.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\spawn_mother_ship.h">
+      <Filter>include\entities</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game_manager.h">
+      <Filter>include\game</Filter>
+    </ClInclude>
+    <ClInclude Include="include\mine_layer.h">
+      <Filter>include\entities</Filter>
+    </ClInclude>
+    <ClInclude Include="include\magnetic_mine.h">
+      <Filter>include\entities</Filter>
+    </ClInclude>
+    <ClInclude Include="include\fireball_mine.h">
+      <Filter>include\entities</Filter>
+    </ClInclude>
+    <ClInclude Include="include\magnetic_fireball_mine.h">
+      <Filter>include\entities</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game_UI.h">
+      <Filter>include\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\pause_menu.h">
+      <Filter>include\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game_over.h">
+      <Filter>include\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\level_select.h">
+      <Filter>include\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\end_game.h">
+      <Filter>include\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\particles.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\animation.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\explosion.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\mine_explosion.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\player_explosion.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\player_teleportation.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\fireball_explosion.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\bullet_explosion.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\mine_layer_explosion.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+    <ClInclude Include="include\collision.h">
+      <Filter>include\tools</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
