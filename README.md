@@ -130,16 +130,16 @@ ___
 ___
 
 ## Main Menu :
-![alt text](images_gifs/mainMenu.png)
+![alt text](images_gifs/mainMenu.PNG)
 
 ## Level Select :
-![alt text](images_gifs/levelSelect.png)
+![alt text](images_gifs/levelSelect.PNG)
 
 ## In game render :
-![alt text](images_gifs/renderGame.png)
+![alt text](images_gifs/renderGame.PNG)
 
 ## Debug :
-![alt text](images_gifs/debug.png)
+![alt text](images_gifs/debug.PNG)
 
 ## Collisions :
 ![alt text](images_gifs/collisions.gif)
